@@ -1,0 +1,16 @@
+Mod_1_challenge
+
+Hello Mark,
+
+Congratulations on submitting your first assignment for the boot camp! Absolutely fantastic job on this assignment! You were able to demonstrate your Python and automation skills! You were also able to calculate the total number of loans and the value of all loans in the list. In the same regard, you were able to take those results and calculate the average loan price, as well as print all calculations without error!
+
+Your analysis is clean and uses the correct method to extract future values. Your naming convention for variables is also great! 
+
+For your conditional statement to decide if the present value represents the loan's fair value, you want to compare the present_value with the loan_sample (or cost).
+
+Awesome job with your financial calculations. You were able to create two new functions to calculate the present value and the new loan’s value. Also, well done filtering and saving the inexpensive loans by properly iterating over the loan price and appending the appropriate data, and printing it!
+
+I have to say how impressed I was to see you cohesively present your code, and analysis. The way you printed out your results was so professional. You took it a step further by adhering to proper coding conventions as well as deploying and hosting your assignment on Github while using clean agile practices! This was an amazing analysis! Keep up the good work and this amazing flow you have been able to establish!
+
+-Central Grader, HR
+Central Grader , Apr 18, 2023 at 10:31pm
